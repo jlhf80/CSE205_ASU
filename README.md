@@ -1,2 +1,2 @@
 # CSE205_ASU
-Coursework from Object-Oriented Programming in Java
+Selected material from Object-Oriented Programming in Java (CSE 205)
